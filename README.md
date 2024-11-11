@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 # 👋 Hello! Welcome to my profile.
 
-I'm a third-year Computer Engineering student at the **Polytechnic University of Catalonia (UPC)**, specializing in Computing.
+I'm a third-year Computer Science & Engineering student at the **Polytechnic University of Catalonia (UPC)**, specializing in Computing.
 
 ### 🚀 Skills
 - **C++**: Strong knowledge in algorithm development and data structures.
@@ -17,11 +17,12 @@ I'm a third-year Computer Engineering student at the **Polytechnic University of
 - **Machine Learning**: Diving deeper into neural networks and model optimization.
 - **Backend Development**: Learning more about system architecture and robust development.
 - **Advanced Algorithms**: Applying advanced techniques to solve real-world, complex problems.
-<!--
+
 ### 📫 Contact Me
-- [Your Email]
-- [LinkedIn] - [Your LinkedIn URL]
- -->
+<!-- - [Your Email] -->
+- [[LinkedIn](https://www.linkedin.com/in/verenisse-famara-c%C3%A1ceres-p%C3%A9rez/)]
+- [[Hackerrank](https://www.hackerrank.com/profile/verenisse)]
+
 Thanks for visiting my profile! I hope you find something interesting in my projects!
 
 # 👋 ¡Buenas! Bienvenido a mi perfil.
