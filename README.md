@@ -1,4 +1,28 @@
 <!-- ## Hi there 👋 -->
+# 👋 Hello! Welcome to my profile.
+
+I'm a third-year Computer Engineering student at the **Polytechnic University of Catalonia (UPC)**, specializing in Computing.
+
+### 🚀 Skills
+- **C++**: Strong knowledge in algorithm development and data structures.
+- **Java**: Experience in complex applications and development projects.
+- **Prolog**: Used for logical problem-solving.
+- **Algorithm Optimization**: Focus on enhancing the efficiency and effectiveness of computational solutions.
+<!--
+### 🔭 Current Projects
+- **Optimization in Artificial Intelligence**: Exploring algorithms to solve complex AI problems.
+- **Social Media Connection Tool**: Developing a tool that allows users to post automatically on social media from a web page.
+-->
+### 📚 Interests
+- **Machine Learning**: Diving deeper into neural networks and model optimization.
+- **Backend Development**: Learning more about system architecture and robust development.
+- **Advanced Algorithms**: Applying advanced techniques to solve real-world, complex problems.
+<!--
+### 📫 Contact Me
+- [Your Email]
+- [LinkedIn] - [Your LinkedIn URL]
+ -->
+Thanks for visiting my profile! I hope you find something interesting in my projects!
 
 # 👋 ¡Buenas! Bienvenido a mi perfil.
 
@@ -24,31 +48,6 @@ Soy un estudiante de Ingeniería Informática en la **Universidad Politécnica d
 - [LinkedIn] - [Tu URL de LinkedIn]
  -->
 Gracias por visitar mi perfil, ¡espero que encuentres algo interesante en mis proyectos!
-
-# 👋 Hello! Welcome to my profile.
-
-I'm a third-year Computer Engineering student at the **Polytechnic University of Catalonia (UPC)**, specializing in Computing.
-
-### 🚀 Skills
-- **C++**: Strong knowledge in algorithm development and data structures.
-- **Java**: Experience in complex applications and development projects.
-- **Prolog**: Used for logical problem-solving.
-- **Algorithm Optimization**: Focus on enhancing the efficiency and effectiveness of computational solutions.
-<!--
-### 🔭 Current Projects
-- **Optimization in Artificial Intelligence**: Exploring algorithms to solve complex AI problems.
-- **Social Media Connection Tool**: Developing a tool that allows users to post automatically on social media from a web page.
--->
-### 📚 Interests
-- **Machine Learning**: Diving deeper into neural networks and model optimization.
-- **Backend Development**: Learning more about system architecture and robust development.
-- **Advanced Algorithms**: Applying advanced techniques to solve real-world, complex problems.
-<!--
-### 📫 Contact Me
-- [Your Email]
-- [LinkedIn] - [Your LinkedIn URL]
- -->
-Thanks for visiting my profile! I hope you find something interesting in my projects!
 
 
 <!--
