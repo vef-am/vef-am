@@ -43,11 +43,12 @@ Soy un estudiante de Ingeniería Informática en la **Universidad Politécnica d
 - **Machine Learning**: Profundizar en redes neuronales y optimización de modelos.
 - **Desarrollo de Backend**: Aprender más sobre arquitectura de sistemas y desarrollo robusto.
 - **Algoritmos Avanzados**: Aplicar técnicas avanzadas para resolver problemas reales y complejos.
-<!-- 
+
 ### 📫 Contáctame
-- [Tu Correo Electrónico]
-- [LinkedIn] - [Tu URL de LinkedIn]
- -->
+<!-- - [Tu Correo Electrónico] -->
+- [[LinkedIn](https://www.linkedin.com/in/verenisse-famara-c%C3%A1ceres-p%C3%A9rez/)]
+- [[Hackerrank](https://www.hackerrank.com/profile/verenisse)]
+
 Gracias por visitar mi perfil, ¡espero que encuentres algo interesante en mis proyectos!
 
 
