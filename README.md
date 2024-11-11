@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-# 👋 ¡Buenas! Bienvenido a mi perfil
+# 👋 ¡Buenas! Bienvenido a mi perfil.
 
 Soy un estudiante de Ingeniería Informática en la **Universidad Politécnica de Cataluña (UPC)**, en mi tercer año de carrera. Me especializo en computación y disfruto de resolver problemas complejos.
 
@@ -25,7 +25,7 @@ Soy un estudiante de Ingeniería Informática en la **Universidad Politécnica d
  -->
 Gracias por visitar mi perfil, ¡espero que encuentres algo interesante en mis proyectos!
 
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! Welcome to my profile.
 
 I'm a third-year Computer Engineering student at the **Polytechnic University of Catalonia (UPC)**, specializing in Computing.
 
