@@ -1,68 +1,119 @@
-<!-- ## Hi there 👋 -->
-# 👋 Hello! Welcome to my profile.
+<p align="center">
+  <img src="banner.png" alt="Vef Banner" />
+</p>
 
-I'm a third-year Computer Science & Engineering student at the **Polytechnic University of Catalonia (UPC)**, specializing in Computing.
+# 👋 Hi there! I'm Verenisse Cáceres (vef-am)
 
-### 🚀 Skills
-- **C++**: Strong knowledge in algorithm development and data structures.
-- **Java**: Experience in complex applications and development projects.
-- **Prolog**: Used for logical problem-solving.
-- **Algorithm Optimization**: Focus on enhancing the efficiency and effectiveness of computational solutions.
-<!--
-### 🔭 Current Projects
-- **Optimization in Artificial Intelligence**: Exploring algorithms to solve complex AI problems.
-- **Social Media Connection Tool**: Developing a tool that allows users to post automatically on social media from a web page.
--->
-### 📚 Interests
-- **Machine Learning**: Diving deeper into neural networks and model optimization.
-- **Backend Development**: Learning more about system architecture and robust development.
-- **Advanced Algorithms**: Applying advanced techniques to solve real-world, complex problems.
+🎓 **Computer Science & Engineering student** at **UPC Barcelona** (final year).  
+💻 Passionate about **Artificial Intelligence** and **Videogames**, with strong skills in **C++** and a quick-learning mindset.  
+🦊 I believe in mixing professionalism with personality — because technology is also about creativity and inspiration.
 
-### 📫 Contact Me
-<!-- - [Your Email] -->
-- [[LinkedIn](https://www.linkedin.com/in/verenisse-famara-c%C3%A1ceres-p%C3%A9rez/)]
-- [[Hackerrank](https://www.hackerrank.com/profile/verenisse)]
+---
 
-Thanks for visiting my profile! I hope you find something interesting in my projects!
+## 🚀 About me
+- 🤖 **My main goal:** create **AI to support human research in medicine** and help discover the unknown.  
+- 🎮 Inspired by **RPG / open-world videogames**; I aim to design games that teach, move and entertain.  
+- 🖥️ Quick learner: I’ve always stood out for understanding concepts fast.  
+- 🎨 I also enjoy **digital art** and **3D modeling** as creative complements to my programming.
 
-# 👋 ¡Buenas! Bienvenido a mi perfil.
+---
 
-Soy un estudiante de Ingeniería Informática en la **Universidad Politécnica de Cataluña (UPC)**, en mi tercer año de carrera. Me especializo en computación y disfruto de resolver problemas complejos.
+## 🛠️ Tech & Tools
+**Languages:**  
+C, C#, C++, Java, Python, HTML, CSS, SQL, PostgreSQL
 
-### 🚀 Conocimientos
-- **C++**: Conocimiento sólido en desarrollo de algoritmos y estructuras de datos.
-- **Java**: Experiencia en proyectos de desarrollo y aplicaciones complejas.
-- **Prolog**: Aplicación en lógica y resolución de problemas lógicos.
-- **Optimización de Algoritmos**: Enfoque en mejorar la eficiencia y efectividad de soluciones computacionales.
-<!--
-### 🔭 Proyectos Actuales
-- **Optimización en Inteligencia Artificial**: Exploración de algoritmos para resolver problemas de IA complejos.
-- **Herramienta de Conexión a Redes Sociales**: Desarrollo de una herramienta que permite a los usuarios realizar publicaciones automáticas en redes sociales desde una página web.
- -->
-### 📚 Intereses
-- **Machine Learning**: Profundizar en redes neuronales y optimización de modelos.
-- **Desarrollo de Backend**: Aprender más sobre arquitectura de sistemas y desarrollo robusto.
-- **Algoritmos Avanzados**: Aplicar técnicas avanzadas para resolver problemas reales y complejos.
+**Tools & Frameworks:**  
+Git/GitHub, Visual Studio Code, Unity, Blender
 
-### 📫 Contáctame
-<!-- - [Tu Correo Electrónico] -->
-- [[LinkedIn](https://www.linkedin.com/in/verenisse-famara-c%C3%A1ceres-p%C3%A9rez/)]
-- [[Hackerrank](https://www.hackerrank.com/profile/verenisse)]
+**Creative Side:**  
+Clip Studio Paint (drawing), Blender (3D modeling)
 
-Gracias por visitar mi perfil, ¡espero que encuentres algo interesante en mis proyectos!
+💡 Strongest experience in **C++**, but continuously expanding into AI and Game Dev.
 
+---
 
-<!--
-**vef-am/vef-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 AI in Medicine
+I want to build AI tools that help researchers explore data and accelerate discoveries in medicine — from supporting literature review and hypothesis generation to assisting experimental design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🌐 Currently working on my **portfolio website**.  
+- 🎮 Future plans include projects combining **AI** and **videogames** for research and learning.
+
+---
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vef-am&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vef-am&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-verenisse--caceres-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/verenisse-caceres/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-verenisse-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/verenisse)
+
+---
+
+<p align="center">
+  <img src="typing.gif" alt="Coding gif" width="420"/>
+</p>
+
+✨ *“My dream is to create AI that helps humanity discover the unknown, and videogames that inspire and teach — just as games once inspired me.”*
+
+---
+
+# 👋 ¡Hola! Soy Verenisse Cáceres (vef-am)
+
+🎓 Estudiante de **Ingeniería Informática** en la **UPC Barcelona** (último año).  
+💻 Apasionado por la **Inteligencia Artificial** y los **Videojuegos**, con gran experiencia en **C++** y una fuerte capacidad de aprendizaje rápido.  
+🦊 Creo en mezclar profesionalidad con personalidad — porque la tecnología también trata de creatividad e inspiración.
+
+---
+
+## 🚀 Sobre mí
+- 🤖 **Mi meta principal:** crear **IA que apoye la investigación humana en medicina** y ayude a descubrir lo desconocido.  
+- 🎮 Inspirado por **videojuegos RPG y de mundo abierto**; quiero diseñar juegos que enseñen, emocionen y entretengan.  
+- 🖥️ Aprendiz rápido: siempre destaqué por comprender conceptos con facilidad.  
+- 🎨 También disfruto del **arte digital** y el **modelado 3D** como complemento creativo a la programación.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+**Lenguajes:**  
+C, C#, C++, Java, Python, HTML, CSS, SQL, PostgreSQL
+
+**Herramientas y Frameworks:**  
+Git/GitHub, Visual Studio Code, Unity, Blender
+
+**Parte creativa:**  
+Clip Studio Paint (dibujo), Blender (modelado 3D)
+
+💡 Mayor experiencia en **C++**, aunque sigo expandiéndome en IA y desarrollo de videojuegos.
+
+---
+
+## 📌 Proyectos
+- 🌐 Actualmente trabajando en mi **web personal de portfolio**.  
+- 🎮 Planes futuros incluyen proyectos que combinen **IA** y **videojuegos** tanto para **investigación** como para **diversión**.
+
+---
+
+## 📊 Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vef-am&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vef-am&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-verenisse--caceres-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/verenisse-caceres/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-verenisse-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/verenisse)
+
+---
+
+<p align="center">
+  <img src="typing.gif" alt="Coding gif" width="420"/>
+</p>
+
+✨ *“Mi sueño es crear IA que ayude a la humanidad a descubrir lo desconocido, y videojuegos que inspiren y enseñen — tal como los juegos me inspiraron a mí.”*
+
