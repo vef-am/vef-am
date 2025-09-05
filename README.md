@@ -50,7 +50,9 @@ I want to build AI tools that help researchers explore data and accelerate disco
   <img src="https://nirzak-streak-stats.vercel.app/?user=vef-am&theme=shadow_red&hide_border=false"><br/>
 </p>
 
-### ✍️ Random Dev Quote
+---
+
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
@@ -112,6 +114,13 @@ Clip Studio Paint (dibujo), Blender (modelado 3D)
   <img src="https://github-readme-stats.vercel.app/api?username=vef-am&show_icons=true&theme=shadow_red">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vef-am&layout=compact&theme=shadow_red"><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=vef-am&theme=shadow_red&hide_border=false"><br/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
 ---
